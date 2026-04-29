@@ -6,7 +6,7 @@
 # dependencies
 /node_modulesabcd
 /.pnp
-.pnp.js
+.pnp.js yash
 yash
 # testing
 /coverage
